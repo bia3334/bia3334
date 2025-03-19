@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Bosch Global Software Technologies Vietnam and Umbrella Delivery System<br>🌱 I’m currently learning Angular and SpringBoot<br>💬 Ask me about Web Development Aspect
+🔭 I’m currently working at Bosch Global Software Technologies Vietnam.<br>🌱 I’m currently learning Angular and SpringBoot<br>💬 Ask me about Web Development Aspect
 
 
 ## 🌐 Socials:
